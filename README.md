@@ -1217,7 +1217,7 @@ import { MdQueryStats } from 'react-icons/md';
 import { FaWpforms } from 'react-icons/fa';
 import { ImProfile } from 'react-icons/im';
 
-const links = [
+export var links = [
   {
     id: 1,
     text: 'stats',
